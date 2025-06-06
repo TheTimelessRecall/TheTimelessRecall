@@ -29,7 +29,6 @@ Currently building solid foundations in algorithms, low-level programming.
 
 ---
 
-## GitHub Stats
 
 
 <table>
@@ -42,9 +41,34 @@ Currently building solid foundations in algorithms, low-level programming.
 
 ---
 
-## Contact
+## Contact Me
 
-- Email: timelessrecall@gmail.com
-- LinkedIn: [timelessrecall](https://www.linkedin.com/in/timelessrecall/)
-- Medium: [timelessrecall](https://medium.com/@timelessrecall)
+<table align="center" style="width: 100%; max-width: 800px; text-align: center; margin-top: 30px;">
+  <tr>
+    <td style="padding: 12px 30px;">
+      <a href="mailto:timelessrecall@gmail.com" target="_blank" style="text-decoration:none; color:#333; font-weight:700; font-size:18px; display: flex; align-items: center; justify-content: center; gap: 12px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="32" height="32" style="vertical-align: middle;"/>
+        Email
+      </a>
+    </td>
+    <td style="padding: 12px 30px;">
+      <a href="https://www.linkedin.com/in/timelessrecall/" target="_blank" style="text-decoration:none; color:#0A66C2; font-weight:700; font-size:18px; display: flex; align-items: center; justify-content: center; gap: 12px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="32" height="32" style="vertical-align: middle;"/>
+        LinkedIn
+      </a>
+    </td>
+    <td style="padding: 12px 30px;">
+      <a href="https://medium.com/@timelessrecall" target="_blank" style="text-decoration:none; color:#000000; font-weight:700; font-size:18px; display: flex; align-items: center; justify-content: center; gap: 12px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium" width="32" height="32" style="vertical-align: middle;"/>
+        Medium
+      </a>
+    </td>
+    <td style="padding: 12px 30px;">
+      <a href="https://x.com/TimelessRecall" target="_blank" style="text-decoration:none; color:#000; font-weight:700; font-size:18px; display: flex; align-items: center; justify-content: center; gap: 12px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="32" height="32" style="vertical-align: middle;"/>
+        X
+      </a>
+    </td>
+  </tr>
+</table>
 
