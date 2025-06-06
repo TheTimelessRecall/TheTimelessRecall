@@ -7,7 +7,6 @@ Currently building solid foundations in algorithms, low-level programming.
 
 ## About
 
-- Writing clean, efficient code in C, C++, and Python.
 - Exploring the internals of systems, compilers, and AI workflows.
 - Pushing toward strong fundamentals before abstraction.
 - Occasionally write about what I learn [here](https://medium.com/@timelessrecall).
