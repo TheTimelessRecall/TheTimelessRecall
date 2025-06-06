@@ -40,7 +40,6 @@ Currently building solid foundations in algorithms, low-level programming.
 
 ---
 
-## Contact Me
 
 <table align="center" style="width: 100%; max-width: 800px; text-align: center; margin-top: 30px;">
   <tr>
