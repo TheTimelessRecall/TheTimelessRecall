@@ -3,13 +3,7 @@
 Computer Science undergrad | Focused on systems, AI, and product engineering  
 Currently building solid foundations in algorithms, low-level programming.
 
----
-
-## About
-
-- Exploring the internals of systems, compilers, and AI workflows.
-- Pushing toward strong fundamentals before abstraction.
-- Occasionally write about what I learn [here](https://medium.com/@timelessrecall).
+Occasionally write about what I learn [here](https://medium.com/@timelessrecall).
 
 ---
 
