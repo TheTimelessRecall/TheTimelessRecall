@@ -16,8 +16,8 @@ Currently building solid foundations in algorithms, low-level programming.
 
 ## Projects
 
-- [Data Structures & Algorithms Repo](https://github.com/TimelessRecall/Data-Structures-Algorithms) — theory + code, structured by topic
-- [CS50x Final Project (WIP)](https://github.com/TimelessRecall) — real-time disease tracking dashboard (coming soon)
+- [Data Structures & Algorithms Repo](https://github.com/TheTimelessRecall/Data-Structures-Algorithms) — theory + code, structured by topic
+- [CS50x Final Project (WIP)](https://github.com/TheTimelessRecall) — real-time disease tracking dashboard (coming soon)
 
 ---
 
