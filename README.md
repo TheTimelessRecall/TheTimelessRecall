@@ -17,7 +17,7 @@ Occasionally write about what I learn [here](https://medium.com/@timelessrecall)
 ## Stack
 
 - Languages: C, C++, Python
-- Tools: Git, VS Code, Linux, Markdown
+- Tools: Git, VS Code,Markdown
 - Learning: DSA, Compiler Design
 
 ---
