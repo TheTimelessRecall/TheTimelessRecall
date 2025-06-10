@@ -1,6 +1,6 @@
 # Anmol Jindal
 
-Computer Science undergrad | Focused on systems, AI, and product engineering  
+Computer Science undergrad!
 Currently building solid foundations in algorithms, low-level programming.
 
 Occasionally write about what I learn [here](https://medium.com/@timelessrecall).
