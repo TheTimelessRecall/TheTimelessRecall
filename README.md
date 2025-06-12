@@ -1,7 +1,5 @@
 # Anmol Jindal
 
-Currently building solid foundations in algorithms, low-level programming.
-
 Occasionally write about what I learn [here](https://medium.com/@timelessrecall).
 
 ---
