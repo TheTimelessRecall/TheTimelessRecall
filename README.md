@@ -13,7 +13,7 @@ Occasionally write about what I learn [here](https://medium.com/@timelessrecall)
 
 ## Stack
 
-- Languages: C, C++, Python
+- Languages: C, C++, Python, Lua
 - Tools: Git, VS Code, Markdown
 - Learning: DSA, Compiler Design
 
