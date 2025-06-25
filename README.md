@@ -20,15 +20,4 @@ Occasionally write about what I learn [here](https://medium.com/@timelessrecall)
 ---
 
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=TheTimelessRecall&show_icons=true&count_private=true&hide_title=true&theme=dark" alt="GitHub Stats" width="500"/></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheTimelessRecall&theme=dark&hide_border=true" alt="GitHub Streak" width="500"/></td>
-  </tr>
-</table>
-
-
----
-
-
 
