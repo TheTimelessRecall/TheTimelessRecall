@@ -6,7 +6,6 @@
   Hey, I'm Anmol aka <code>TheTimelessRecall</code> 👾
 </h1>
 
-
 ## About me
 
 <img align="right" src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="170" />
@@ -19,13 +18,13 @@
 
 ---
 
-
 ## GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TheTimelessRecall&theme=darkhub&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 </p>
 
 ---
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Writing+code...;Breaking+it...;Trying+to+fix+it..." />
 </p>
