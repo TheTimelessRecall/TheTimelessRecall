@@ -6,14 +6,23 @@
   Hey, I'm Anmol aka <code>TheTimelessRecall</code> 👾
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=500&lines=Shipping+code+at+2AM;Debugging+life+at+2:05AM;Googling+errors+at+2:10AM;Found+on+StackOverflow+at+2:30AM;Repeat.">
-</p>
+
+## About me
+
+<img align="right" src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width="150" />
+
+-  Computer Science undergrad
+-  Mostly build in **C, C++ & Python**
+-  Learning Data Structures, Algorithms & low-level systems
+-  Writing blogs and theory docs to explain things in plain language
+-  Building structured, maintainable, and well-documented repos
 
 ---
 
+
+## GitHub Trophies
 <p align="center">
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/coding.gif" width="300" alt="coding at 2am" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TheTimelessRecall&theme=darkhub&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 </p>
 
----
+
