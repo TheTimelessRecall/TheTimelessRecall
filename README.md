@@ -39,6 +39,23 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code> 👾
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheTimelessRecall&theme=github-compact" />
 </p>
 
+---
+
+## Connect with Me
+
+<p align="center">
+  <a href="mailto:timelessrecall@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/timelessrecall">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/TheTimelessRecall">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Writing+code...;Breaking+it...;Trying+to+fix+it..." />
