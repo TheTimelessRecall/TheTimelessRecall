@@ -6,7 +6,7 @@
 Hey, I'm Anmol <code>(TheTimelessRecall)</code> 👾
 </h1>
 
-<p align="middle">
+<p align="centre">
   <img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c&logoColor=A8B9CC"/>
   <img src="https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C"/>
   <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=3776AB"/>
