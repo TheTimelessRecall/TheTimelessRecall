@@ -11,6 +11,8 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code> 👾
   <img src="https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C"/>
   <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git&logoColor=F05032"/>
+ <img src="https://img.shields.io/badge/Markdown-05122A?style=flat&logo=markdown&logoColor=white"/>
+ <img src="https://img.shields.io/badge/VSCode-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC"/>
 </p>
 
 ## About me
@@ -19,7 +21,7 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code> 👾
 
 -  Computer Science undergrad
 -  Mostly build in **C, C++ & Python**
--  Learning Data Structures, Algorithms & low-level systems
+-  Learning DSA from Abdul Bari & solving LeetCode (Blind75 + NeetCode All)
 -  Writing blogs and theory docs to explain things in plain language
 -  Building structured, maintainable, and well-documented repos
 
