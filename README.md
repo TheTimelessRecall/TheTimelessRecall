@@ -9,6 +9,9 @@
 
 ## About me
 
+<img align="right" src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="170" />
+
+
 -  Computer Science undergrad
 -  Mostly build in **C, C++ & Python**
 -  Learning Data Structures, Algorithms & low-level systems
@@ -17,7 +20,6 @@
 
 
 ---
-
 
 
 ## GitHub Trophies
