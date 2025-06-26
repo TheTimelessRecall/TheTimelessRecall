@@ -3,12 +3,12 @@
 </p>
 
 <h1 align="center">
-  Hey, I'm Anmol aka <code>TheTimelessRecall</code> 👾
+Hey, I'm Anmol <code>(TheTimelessRecall)</code> 👾
 </h1>
 
 ## About me
 
-<img align="right" src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="170" />
+<img align="right" src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="200" />
 
 -  Computer Science undergrad
 -  Mostly build in **C, C++ & Python**
