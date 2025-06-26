@@ -9,13 +9,15 @@
 
 ## About me
 
-<img align="right" src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width="150" />
+<img align="right" src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width="120" />
 
 -  Computer Science undergrad
 -  Mostly build in **C, C++ & Python**
 -  Learning Data Structures, Algorithms & low-level systems
 -  Writing blogs and theory docs to explain things in plain language
 -  Building structured, maintainable, and well-documented repos
+
+
 
 ---
 
