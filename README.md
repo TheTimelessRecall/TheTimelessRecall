@@ -9,8 +9,6 @@
 
 ## About me
 
-<img align="right" src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width="120" />
-
 -  Computer Science undergrad
 -  Mostly build in **C, C++ & Python**
 -  Learning Data Structures, Algorithms & low-level systems
@@ -18,13 +16,18 @@
 -  Building structured, maintainable, and well-documented repos
 
 
-
 ---
+
 
 
 ## GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TheTimelessRecall&theme=darkhub&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+</p>
+
+---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Writing+code...;Breaking+things...;Trying+to+fix+it..." />
 </p>
 
 
