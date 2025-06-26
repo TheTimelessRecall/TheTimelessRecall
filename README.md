@@ -25,6 +25,13 @@
 
 ---
 
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheTimelessRecall&theme=github-compact" />
+</p>
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Writing+code...;Breaking+it...;Trying+to+fix+it..." />
 </p>
