@@ -6,6 +6,14 @@
 Hey, I'm Anmol <code>(TheTimelessRecall)</code> 👾
 </h1>
 
+<p align="middle">
+  <img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c&logoColor=A8B9CC"/>
+  <img src="https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C"/>
+  <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git&logoColor=F05032"/>
+</p>
+
+
 ## About me
 
 <img align="right" src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="180" />
@@ -17,6 +25,7 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code> 👾
 -  Building structured, maintainable, and well-documented repos
 
 ---
+
 
 ## GitHub Trophies
 <p align="center">
