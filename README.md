@@ -44,14 +44,26 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code> 👾
 ## Connect with Me
 
 <p align="center">
-  <a href="mailto:timelessrecall@gmail.com">
+  <a href="mailto:timelessrecall@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/timelessrecall">
+  <a href="https://www.linkedin.com/in/timelessrecall/" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/TheTimelessRecall">
+  <a href="https://github.com/TheTimelessRecall" title="GitHub">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@TimelessRecall" title="Medium">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/TimelessRecall/" title="LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://stackoverflow.com/users/27245327/timelessrecall" title="Stack Overflow">
+    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+  <a href="https://x.com/TimelessRecall" title="Twitter / X">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
