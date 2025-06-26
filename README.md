@@ -43,18 +43,6 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code> 👾
 
 ---
 
-##  Featured Projects
-
-- [DSA Notes Repo](https://github.com/TheTimelessRecall/Data-Structures-Algorithms)  
-  Clean, structured DSA theory + code — based on Abdul Bari's course.
-
-- [C Projects Collection](https://github.com/TheTimelessRecall/C-Programs)  
-  20+ beginner to intermediate C projects.
-
-- [LeetCode Solutions](https://github.com/TheTimelessRecall/Leetcode-Solutions)  
-  Clean, readable C++ solutions to NeetCode and Blind75 problems.
-
----
 
 ## Connect with Me
 
