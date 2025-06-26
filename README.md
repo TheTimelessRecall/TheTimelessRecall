@@ -11,13 +11,11 @@
 
 <img align="right" src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="170" />
 
-
 -  Computer Science undergrad
 -  Mostly build in **C, C++ & Python**
 -  Learning Data Structures, Algorithms & low-level systems
 -  Writing blogs and theory docs to explain things in plain language
 -  Building structured, maintainable, and well-documented repos
-
 
 ---
 
@@ -31,5 +29,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Writing+code...;Breaking+things...;Trying+to+fix+it..." />
 </p>
-
-
