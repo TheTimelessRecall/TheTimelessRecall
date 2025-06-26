@@ -8,7 +8,7 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code> 👾
 
 ## About me
 
-<img align="right" src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="200" />
+<img align="right" src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="180" />
 
 -  Computer Science undergrad
 -  Mostly build in **C, C++ & Python**
