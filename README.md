@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-Hey, I'm Anmol <code>(TheTimelessRecall)</code> 👾
+Hey, I'm Anmol <code>(TheTimelessRecall)</code> 
 </h1>
 
 <p align="center">
