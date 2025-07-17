@@ -30,10 +30,7 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code>
 
 ---
 
-## Latest Blog
-
-**[C++ Matrix Compression: Reduce Memory Usage by 90% with Smart 1D Storage](https://medium.com/@TimelessRecall/matrix-compression-in-c-slash-memory-usage-by-90-with-smart-1d-storage-048b7b05c8de)**
-
+### Latest Blog Posts
 
 ---
 
