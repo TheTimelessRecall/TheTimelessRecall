@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20&height=100&section=header"/>
+  <img src="https://github.com/TheTimelessRecall/TheTimelessRecall/blob/main/assests/2fdcc029-559d-4fbc-9691-b626add5b7b6%20(1).png"/>
 </p>
 
 <h1 align="center">
