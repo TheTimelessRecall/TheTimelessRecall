@@ -42,7 +42,7 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code>
       <a href="https://medium.com/@TimelessRecall/matrix-compression-in-c-slash-memory-usage-by-90-with-smart-1d-storage-048b7b05c8de" target="_blank">
         <h3>Matrix Compression in C++: Slash Memory Usage by 90%</h3>
       </a>
-      <p><strong>Jul 13, 20255</strong></p>
+      <p><strong>Jul 13, 2025</strong></p>
       <p>
         Real-world matrices are often sparse or patterned. In this post, I show how to compress Diagonal, Tri-diagonal, Toeplitz, and Symmetric matrices using efficient 1D representations.
       </p>
