@@ -30,7 +30,7 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code>
 
 ---
 
-### Latest Blog Posts
+## Latest Blog Posts
 
 ---
 
