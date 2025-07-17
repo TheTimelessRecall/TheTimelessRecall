@@ -32,6 +32,9 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code>
 
 ## Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 ---
 
 
