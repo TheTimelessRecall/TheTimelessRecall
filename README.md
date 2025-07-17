@@ -33,7 +33,8 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code>
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [C++ Matrix Compression: Reduce Memory Usage by 90% with Smart 1D Storage](https://dev.to/timelessrecall/c-matrix-compression-reduce-memory-usage-by-90-with-smart-1d-storage-3491)
+- [Why Your Recursive Fibonacci Is a Time-Consuming Monster &lpar;And How DP Saves Your Day&rpar;](https://dev.to/timelessrecall/why-your-recursive-fibonacci-is-a-time-consuming-monster-and-how-dp-saves-your-day-2bf7)
 <!-- BLOG-POST-LIST:END -->
 ---
 
