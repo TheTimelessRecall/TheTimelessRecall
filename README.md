@@ -31,11 +31,47 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code>
 ---
 
 ## Latest Blog Posts
+<table>
+  <tr>
+    <td width="30%">
+      <a href="https://medium.com/@TimelessRecall/matrix-compression-in-c-slash-memory-usage-by-90-with-smart-1d-storage-048b7b05c8de" target="_blank">
+        <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*s6Ux5MMiGHL7mPDCm6ouQg.jpeg" width="100%" style="border-radius: 10px;" />
+      </a>
+    </td>
+    <td valign="top" style="padding-left: 20px;">
+      <a href="https://medium.com/@TimelessRecall/matrix-compression-in-c-slash-memory-usage-by-90-with-smart-1d-storage-048b7b05c8de" target="_blank">
+        <h3>Matrix Compression in C++: Slash Memory Usage by 90%</h3>
+      </a>
+      <p><strong>Jul 13, 20255</strong></p>
+      <p>
+        Real-world matrices are often sparse or patterned. In this post, I show how to compress Diagonal, Tri-diagonal, Toeplitz, and Symmetric matrices using efficient 1D representations.
+      </p>
+    </td>
+  </tr>
+</table>
 
-<!-- BLOG-POST-LIST:START -->
-- [C++ Matrix Compression: Reduce Memory Usage by 90% with Smart 1D Storage](https://dev.to/timelessrecall/c-matrix-compression-reduce-memory-usage-by-90-with-smart-1d-storage-3491)
-- [Why Your Recursive Fibonacci Is a Time-Consuming Monster &lpar;And How DP Saves Your Day&rpar;](https://dev.to/timelessrecall/why-your-recursive-fibonacci-is-a-time-consuming-monster-and-how-dp-saves-your-day-2bf7)
-<!-- BLOG-POST-LIST:END -->
+<br/>
+
+<table>
+  <tr>
+    <td width="30%">
+      <a href="https://medium.com/@TimelessRecall/why-your-recursive-fibonacci-is-a-time-consuming-monster-and-how-dp-saves-your-day-5c6f30098e4c" target="_blank">
+        <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*xvIaP2rhLlEFB7zr403syg.jpeg" width="100%" style="border-radius: 10px;" />
+      </a>
+    </td>
+    <td valign="top" style="padding-left: 20px;">
+      <a href="https://medium.com/@TimelessRecall/why-your-recursive-fibonacci-is-a-time-consuming-monster-and-how-dp-saves-your-day-5c6f30098e4c" target="_blank">
+        <h3>Why Your Recursive Fibonacci is a Time-Consuming Monster (and How DP Saves Your Day)</h3>
+      </a>
+      <p><strong>Jun 6, 2025</strong></p>
+      <p>
+       This article explains why Recursive Fibonacci is bad for performance and shows how to use tabulation and memoization to fix it.
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 ---
 
 
