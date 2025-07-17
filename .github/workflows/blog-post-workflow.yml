@@ -16,3 +16,18 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://dev.to/feed/timelessrecall"
+          max_post_count: 5
+          custom_format: '<table>$blog_post_list</table>'
+          blog_post_list_format: |
+            <tr>
+              <td width="150px">
+                <a href="$url" target="_blank">
+                  <img src="$image" alt="$title" width="150">
+                </a>
+              </td>
+              <td valign="top">
+                <h3><a href="$url" target="_blank">$title</a></h3>
+                <p>$description</p>
+                <i>$date</i>
+              </td>
+            </tr>
