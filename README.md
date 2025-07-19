@@ -38,7 +38,7 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code>
     </td>
     <td valign="top" style="padding-left: 20px;">
       <a href="https://medium.com/@TimelessRecall/matrix-compression-in-c-slash-memory-usage-by-90-with-smart-1d-storage-048b7b05c8de" target="_blank">
-        <h3>Matrix Compression in C++: Slash Memory Usage by 90%</h3>
+        <h3>C++ Matrix Compression: Reduce Memory Usage by 90% with Smart 1D Storage</h3>
       </a>
       <p><strong>Jul 13, 2025</strong></p>
       <p>
