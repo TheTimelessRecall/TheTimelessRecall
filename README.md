@@ -13,9 +13,10 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code>
   <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git&logoColor=F05032"/>
  <img src="https://img.shields.io/badge/Markdown-05122A?style=flat&logo=markdown&logoColor=white"/>
  <img src="https://img.shields.io/badge/VSCode-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/LeetCode-05122A?style=flat&logo=leetcode&logoColor=FFA116"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ## About me
@@ -25,10 +26,10 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code>
 -  Computer Science undergrad
 -  Mostly build in **C, C++ & Python**
 -  Learning DSA from Abdul Bari & solving LeetCode (Blind75 + NeetCode All)
--  Writing blogs and theory docs to explain things in plain language
+- I write dev blogs on [Medium](https://medium.com/@TimelessRecall) and [Dev.to](https://dev.to/timelessrecall)
 -  Building structured, maintainable, and well-documented repos
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Latest Blog Posts
 <table>
@@ -72,7 +73,7 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code>
 </table>
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ## GitHub Trophies
@@ -80,7 +81,7 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code>
   <img src="https://github-profile-trophy.vercel.app/?username=TheTimelessRecall&theme=darkhub&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## GitHub Activity
 
@@ -88,7 +89,9 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheTimelessRecall&theme=github-compact" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 
 ## Connect with Me
