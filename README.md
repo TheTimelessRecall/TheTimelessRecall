@@ -23,7 +23,7 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code>
 
 <img align="right" src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="180" />
 
--  Computer Science undergrad
+-  2nd year CSE undergrad
 -  Mostly build in **C, C++ & Python**
 -  Learning DSA from Abdul Bari & solving LeetCode (Blind75 + NeetCode All)
 - I write dev blogs on [Medium](https://medium.com/@TimelessRecall) and [Dev.to](https://dev.to/timelessrecall)
