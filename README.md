@@ -21,7 +21,8 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code>
 
 ## About me
 
-<img align="right" src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="180" />
+<img align="right" width="360" src="https://leetcard.jacoblin.cool/TimelessRecall?theme=dark&font=Fira%20Code" />
+
 
 -  2nd year CSE undergrad
 -  Mostly build in **C, C++ & Python**
