@@ -30,7 +30,7 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code>
 - I write dev blogs on [Medium](https://medium.com/@TimelessRecall) and [Dev.to](https://dev.to/timelessrecall)
 -  Building structured, maintainable, and well-documented repos
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## Latest Blog Posts
 <table>
@@ -73,8 +73,15 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code>
   </tr>
 </table>
 
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheTimelessRecall&theme=github-compact" />
+</p>
+
+---
 
 
 ## GitHub Trophies
@@ -84,16 +91,8 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheTimelessRecall&theme=github-compact" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
+---
 
 ## Connect with Me
 
@@ -120,3 +119,5 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code>
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
+
+---
