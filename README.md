@@ -89,7 +89,6 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code>
   <img src="https://github-profile-trophy.vercel.app/?username=TheTimelessRecall&theme=darkhub&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ---
