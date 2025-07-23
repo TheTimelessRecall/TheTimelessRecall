@@ -71,14 +71,6 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code>
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheTimelessRecall&theme=github-compact" />
-</p>
-
----
-
 
 ## GitHub Trophies
 <p align="center">
