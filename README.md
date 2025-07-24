@@ -77,8 +77,6 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code>
   <img src="https://github-profile-trophy.vercel.app/?username=TheTimelessRecall&theme=darkhub&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 </p>
 
-
-
 ---
 
 ## Connect with Me
