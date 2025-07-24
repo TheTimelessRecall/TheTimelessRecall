@@ -42,7 +42,7 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code>
       </a>
       <p><strong>Jul 13, 2025</strong></p>
       <p>
-        Real-world matrices are often sparse or patterned. In this post, I show how to compress Diagonal, Tri-diagonal, Toeplitz, and Symmetric matrices using efficient 1D representations.
+        In this post, I show how to compress Diagonal, Tri-diagonal, Toeplitz, and Symmetric matrices using efficient 1D representations.
       </p>
     </td>
   </tr>
