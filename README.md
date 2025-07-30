@@ -13,7 +13,6 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code>
   <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git&logoColor=F05032"/>
  <img src="https://img.shields.io/badge/Markdown-05122A?style=flat&logo=markdown&logoColor=white"/>
  <img src="https://img.shields.io/badge/VSCode-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/LeetCode-05122A?style=flat&logo=leetcode&logoColor=FFA116"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
