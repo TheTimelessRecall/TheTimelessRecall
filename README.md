@@ -20,7 +20,6 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code>
 
 ## About me
 
--  2nd year CSE undergrad
 -  Mostly build in **C, C++ & Python**
 -  I write dev blogs on [Medium](https://medium.com/@TimelessRecall) and [Dev.to](https://dev.to/timelessrecall)
 -  Building structured, maintainable, and well-documented repos
