@@ -86,7 +86,7 @@ Hey, I'm Anmol <code>(TheTimelessRecall)</code>
   <a href="https://www.linkedin.com/in/timelessrecall/" title="LinkedIn" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/TheTimelessRecall" title="GitHub" target="_blank" rel="noopener noreferrer">
+<a
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://medium.com/@TimelessRecall" title="Medium" target="_blank" rel="noopener noreferrer">
