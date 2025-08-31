@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-Hey, I'm Anmol 
+Hey, I'm Anmol 🧑‍💻
 </h1>
 
 <p align="center">
