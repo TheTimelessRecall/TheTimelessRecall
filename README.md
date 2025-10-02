@@ -11,8 +11,7 @@ Hey, I'm Anmol
   <img src="https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C"/>
   <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git&logoColor=F05032"/>
- <img src="https://img.shields.io/badge/Markdown-05122A?style=flat&logo=markdown&logoColor=white"/>
- <img src="https://img.shields.io/badge/VSCode-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC"/>
+  <img src="https://img.shields.io/badge/VSCode-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
